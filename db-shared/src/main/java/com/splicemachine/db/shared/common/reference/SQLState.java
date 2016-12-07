@@ -1963,6 +1963,7 @@ public interface SQLState {
 	String PIN_READ_FAILURE					   						= "EXT16";
 	String COMPRESSION_NOT_ALLOWED_WITH_TEXT_FILE				    = "EXT17";
 	String STORED_AS_OR_LOCATION_WITHOUT_EXTERNAL					= "EXT18";
+	String UNSUPPORTED_ENCODING_EXCEPTION							= "EXT19";
 
 
 }
